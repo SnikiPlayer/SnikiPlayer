@@ -1,6 +1,6 @@
 ### Hi there, im Sniki 👋🏼
 
-- 🌱 I’m currently learning : Node.js(JS) / JAVA / Python
+- 🌱 I’m currently learning : Node.js(JS) / JAVA / REACT
 - 📫 How to reach me: Discord
 
 <div align="center">
