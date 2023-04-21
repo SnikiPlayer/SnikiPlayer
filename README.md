@@ -21,7 +21,7 @@
   <img align="center" alt="Sniki-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Sniki-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
-  <img align="right" alt="Sniki-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/50173022?v=4">
+  <img align="right" alt="Sniki-pic" height="150" style="border-radius:500px;" src="https://avatars.githubusercontent.com/u/50173022?v=4">
 </div>
 
   ##
