@@ -1,35 +1,63 @@
-### Hi there, im Sniki 👋🏼
+
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1063460773436862514/1117939404212813915/Prancheta_1.png?width=1440&height=576" align="center" height="" width="800" />
+<img src="https://media.discordapp.net/attachments/1063460773436862514/1117939404212813915/Prancheta_1.png?width=1440&height=576" align="center" height="" width="900" />
 </div>  
 
-- 🌱 I’m currently learning : Node.js & React.js
-- 📫 How to reach me: Discord
+#👋Welcome to my profile, my name is Gustavo Vília, also known as ["Sniki"](https://github.com/SnikiPlayer)
+
+</br>
+
+- 🎉 19 Years Old
+- 🇵🇹  Portugal, Lisbon
+- 🚀 Passionate about physics and space
+- 🎓 Currently studying
+
+### Currently learning
+```bash
+Languages
+```
+- [Typescript](https://www.typescriptlang.org/)
+
+</br>
+
+```bash
+Frameworks
+```
+- [React.js](https://react.dev/)
+- [React Native](https://reactnative.dev/)
+- 
+</br>
+
+```bash
+Technologies
+```
+- [Three.js](https://threejs.org/)
+
+</br>
 
 <div align="center">
   <a href="https://github.com/SnikiPlayer">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sniki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sniki-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Sniki-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Sniki-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Sniki-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Sniki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sniki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sniki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sniki-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Sniki-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
-  <img align="right" alt="Sniki-pic" height="150" style="border-radius:500px;" src="https://avatars.githubusercontent.com/u/50173022?v=4">
-</div>
-
-  ##
-
+## Links
 <div> 
- <a href="https://discord.gg/uH7sZQevBa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://discord.gg/uH7sZQevBa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.instagram.com/vilia.exe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="https://twitter.com/supsniki" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  
 </div>
+
+</br>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=snikiplayer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=snikiplayer&&style=flat-square" align="center" />
+</div>  
