@@ -1,4 +1,7 @@
 ### Hi there, im Sniki 👋🏼
+<div align="center">
+<img src="https://media.discordapp.net/attachments/1063460773436862514/1117939404212813915/Prancheta_1.png?width=1440&height=576" align="center" height="" width="800" />
+</div>  
 
 - 🌱 I’m currently learning : Node.js & React.js
 - 📫 How to reach me: Discord
