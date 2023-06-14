@@ -49,7 +49,7 @@ Technologies
 [![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
 [![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
 <div align="center">
-<img src="https://static.kcet.kcet.production.k2.m1.brightspot.cloud/dims4/default/c2dce3e/2147483647/strip/true/crop/1920x643+0+0/resize/848x284!/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkl%2Ffiles%2Fthumbnails%2Fimage%2Fapollo_17_moon_panoramaprimary.jpg" align="center" height="" width="1100" />
+<img src="https://cdn.discordapp.com/attachments/1063460773436862514/1118545405932740628/SnikiBannerName.png" align="center" height="" width="1100" />
 </div>
 </br>
 
