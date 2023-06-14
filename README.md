@@ -26,17 +26,17 @@
       <li>📖SQL</li>
     
 </details>
-<details open>
+<details>
   <summary><strong>Frameworks</strong></summary><blockquote>
     <li>📗Express.js</li>
     <li>💠React</li>
     <li>📔Bootstrap</li> 
 </details>
-<details open>
+<details>
   <summary><strong>Technologies</strong></summary><blockquote>
     <li>🪢Node.js</li>
 </details>
-<details open>
+<details>
   <summary><strong>Libraries</strong></summary><blockquote>
     <li>📚 Currently learning Three.js</li>
 </details>
@@ -48,15 +48,15 @@
   <summary><strong>Languages</strong></summary><blockquote>
       <li>📘Typescript</li>
 </details>
-<details open>
+<details>
   <summary><strong>Frameworks</strong></summary><blockquote>
     <li>💠React (Still improving)</li>
 </details>
-<details open>
+<details>
   <summary><strong>Technologies</strong></summary><blockquote>
     <li>🦺 Git</li>
 </details>
-<details open>
+<details>
   <summary><strong>Libraries</strong></summary><blockquote>
     <li>📚 Three.js</li>
 </details>
