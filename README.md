@@ -16,27 +16,51 @@
 
 </br>
 
-### Currently learning
-```bash
-Languages
-```
-- [Typescript](https://www.typescriptlang.org/)
+## 🔥Skill set
+<details open>
+  <summary><strong>Languages</strong></summary><blockquote>
+      <li>📙Java</li>
+      <li>📗Javascript</li>
+      <li>🐍Python</li>
+      <li>🐘PHP</li>
+      <li>📖SQL</li>
+    
+</details>
+<details open>
+  <summary><strong>Frameworks</strong></summary><blockquote>
+    <li>📗Express.js</li>
+    <li>💠React</li>
+    <li>📔Bootstrap</li> 
+</details>
+<details open>
+  <summary><strong>Technologies</strong></summary><blockquote>
+    <li>🪢Node.js</li>
+</details>
+<details open>
+  <summary><strong>Libraries</strong></summary><blockquote>
+    <li>📚 Currently learning Three.js</li>
+</details>
 
 </br>
 
-```bash
-Frameworks
-```
-- [React.js](https://react.dev/)
-- [React Native](https://reactnative.dev/)
-
-</br>
-
-```bash
-Technologies
-```
-- [Three.js](https://threejs.org/)
-
+## 📚Currently learning
+<details open>
+  <summary><strong>Languages</strong></summary><blockquote>
+      <li>📘Typescript</li>
+</details>
+<details open>
+  <summary><strong>Frameworks</strong></summary><blockquote>
+    <li>💠React (Still improving)</li>
+</details>
+<details open>
+  <summary><strong>Technologies</strong></summary><blockquote>
+    <li>🦺 Git</li>
+</details>
+<details open>
+  <summary><strong>Libraries</strong></summary><blockquote>
+    <li>📚 Three.js</li>
+</details>
+    
 </br>
 
 <div align="center">
