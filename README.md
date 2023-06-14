@@ -20,6 +20,7 @@
 <details>
   <summary><strong>Languages</strong></summary><blockquote>
       <li>📙Java</li>
+      <li>🤖Android (Java)</li>
       <li>📗Javascript</li>
       <li>🐍Python</li>
       <li>🐘PHP</li>
@@ -38,6 +39,7 @@
 </details>
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
+    <li>📒 jQuery</li>
     <li>📚 Currently learning Three.js</li>
 </details>
 
