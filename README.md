@@ -30,7 +30,6 @@
 <details>
   <summary><strong>Frameworks</strong></summary><blockquote>
     <li>📗Express.js</li>
-    <li>💠React</li>
     <li>📔Bootstrap</li> 
 </details>
 <details>
@@ -39,8 +38,8 @@
 </details>
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
+    <li>💠React</li>
     <li>📒 jQuery</li>
-    <li>📚 Currently learning Three.js</li>
 </details>
 
 </br>
@@ -52,7 +51,7 @@
 </details>
 <details>
   <summary><strong>Frameworks</strong></summary><blockquote>
-    <li>💠React (Still improving)</li>
+    <li>💀 None at the moment</li>
 </details>
 <details>
   <summary><strong>Technologies</strong></summary><blockquote>
@@ -60,6 +59,7 @@
 </details>
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
+    <li>💠React (Still improving)</li>
     <li>📚 Three.js</li>
 </details>
     
