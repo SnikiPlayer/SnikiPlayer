@@ -17,7 +17,7 @@
 </br>
 
 ## 🔥Skill set
-<details open>
+<details>
   <summary><strong>Languages</strong></summary><blockquote>
       <li>📙Java</li>
       <li>📗Javascript</li>
@@ -44,7 +44,7 @@
 </br>
 
 ## 📚Currently learning
-<details open>
+<details>
   <summary><strong>Languages</strong></summary><blockquote>
       <li>📘Typescript</li>
 </details>
