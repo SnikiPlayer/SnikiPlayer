@@ -12,7 +12,7 @@
 - 🎉 19 Years Old
 - 🇵🇹  Portugal, Lisbon
 - 🚀 Passionate about physics and space
-- 🎓 Currently studying
+- 🎓 Currently taking a Degree in Systems Management and Computing 
 
 </br>
 
@@ -48,6 +48,7 @@
 <details>
   <summary><strong>Languages</strong></summary><blockquote>
       <li>📘Typescript</li>
+      <li>🤠C</li>
 </details>
 <details>
   <summary><strong>Frameworks</strong></summary><blockquote>
@@ -60,7 +61,6 @@
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
     <li>💠React (Still improving)</li>
-    <li>📚 Three.js</li>
 </details>
     
 </br>
