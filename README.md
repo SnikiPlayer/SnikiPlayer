@@ -75,7 +75,7 @@
 [![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
 [![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
 <div align="center">
-<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217920454716/SnikiBannerName.png" align="center" height="" width="1100" />
+<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217920454716/SnikiBannerName.png?ex=6626a7f4&is=661432f4&hm=5d0bd3a80a7c1f219ca59085bc65ccc7777b059c20f267c99a4466bdb5b4c510&=&format=webp&quality=lossless&width=881&height=246" align="center" height="" width="1100" />
 </div>
 </br>
 
