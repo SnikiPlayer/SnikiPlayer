@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217580974200/SnikiBanner.png" align="center" height="" width="900" />
+<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217580974200/SnikiBanner.png?ex=6626a7f4&is=661432f4&hm=53b52ef27474c38b083c0754705197673683f2bdbede0d2dcf485b61ac8a57d2&=&format=webp&quality=lossless&width=881&height=352" align="center" height="" width="900" />
 </div>
 
 </br>
