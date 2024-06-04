@@ -9,10 +9,10 @@
 
 </br>
 
-- 🎉 19 Years Old
+- 🎉 20 Years Old
 - 🇵🇹  Portugal, Lisbon
-- 🚀 Passionate about physics and space
-- 🎓 Currently taking a Degree in Systems Management and Computing 
+- 🎓 Currently taking a Degree in Systems Management and Computing
+- 📸 Passionate about photography
 
 </br>
 
