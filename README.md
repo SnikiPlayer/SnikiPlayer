@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217580974200/SnikiBanner.png?ex=6626a7f4&is=661432f4&hm=53b52ef27474c38b083c0754705197673683f2bdbede0d2dcf485b61ac8a57d2&=&format=webp&quality=lossless&width=881&height=352" align="center" height="" width="900" />
+<img src="https://media.discordapp.net/attachments/1063460773436862514/1247499789873057793/uCMOhqN.png?ex=66604037&is=665eeeb7&hm=5229f803ededc38f50fffdf5a6d79a0ae6f781b39caf6b4102433c1b98508d15&=&format=webp&quality=lossless" align="center" height="" width="900" />
 </div>
 
 </br>
@@ -75,7 +75,7 @@
 [![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
 [![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
 <div align="center">
-<img src="https://media.discordapp.net/attachments/572923736760516609/1226957217920454716/SnikiBannerName.png?ex=6626a7f4&is=661432f4&hm=5d0bd3a80a7c1f219ca59085bc65ccc7777b059c20f267c99a4466bdb5b4c510&=&format=webp&quality=lossless&width=881&height=246" align="center" height="" width="1100" />
+<img src="https://media.discordapp.net/attachments/1063460773436862514/1247499790204403772/D0vuLfh.png?ex=66604037&is=665eeeb7&hm=e0a83440cbd150f4c7520516c210ee799f49e2ec00dc6658f21f8552bc956611&=&format=webp&quality=lossless" align="center" height="" width="1100" />
 </div>
 </br>
 
