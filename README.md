@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1063460773436862514/1247499789873057793/uCMOhqN.png?ex=66604037&is=665eeeb7&hm=5229f803ededc38f50fffdf5a6d79a0ae6f781b39caf6b4102433c1b98508d15&=&format=webp&quality=lossless" align="center" height="" width="900" />
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" height="" width="900" />
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 - 🎉 20 Years Old
 - 🇵🇹  Portugal, Lisbon
-- 🎓 Currently taking a Degree in Systems Management and Computing
+- 🎓 Currently taking a BSc Systems Management and Computing
 - 📸 Passionate about photography
 
 </br>
@@ -75,7 +75,7 @@
 [![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
 [![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
 <div align="center">
-<img src="https://media.discordapp.net/attachments/1063460773436862514/1247499790204403772/D0vuLfh.png?ex=66604037&is=665eeeb7&hm=e0a83440cbd150f4c7520516c210ee799f49e2ec00dc6658f21f8552bc956611&=&format=webp&quality=lossless" align="center" height="" width="1100" />
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp" align="center" height="" width="1100" />
 </div>
 </br>
 
