@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" height="" width="900" />
+<img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif" align="center" height="" width="900" />
 </div>
 
 </br>
@@ -75,7 +75,7 @@
 [![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
 [![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
 <div align="center">
-<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp" align="center" height="" width="1100" />
+<img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif" align="center" height="" width="1100" />
 </div>
 </br>
 
