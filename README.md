@@ -5,7 +5,11 @@
 
 </br>
 
-<div align="center" >👋Welcome to my profile, my name is <strong>Gustavo Vília</strong>, also known as <strong><a href="https://github.com/SnikiPlayer">"Sniki"</a></strong></div>
+<div align="center" >
+  <h1>
+    👋Welcome to my profile, my name is <strong>Gustavo Vília</strong>, also known as <strong><a href="https://github.com/SnikiPlayer">"Sniki"</a></strong>
+  </h1>
+</div>
 
 </br>
 
@@ -19,27 +23,27 @@
 ## 🔥Skill set
 <details>
   <summary><strong>Languages</strong></summary><blockquote>
-      <li>📙Java</li>
-      <li>🤖Android (Java)</li>
-      <li>📗Javascript</li>
-      <li>🐍Python</li>
-      <li>🐘PHP</li>
-      <li>📖SQL</li>
+      <li><img src="https://skillicons.dev/icons?i=java" />Java</li>
+      <li><img src="https://skillicons.dev/icons?i=androidstudio" />🤖Android (Java)</li>
+      <li><img src="https://skillicons.dev/icons?i=js" />Javascript</li>
+      <li><img src="https://skillicons.dev/icons?i=py" />Python</li>
+      <li><img src="https://skillicons.dev/icons?i=php" />PHP</li>
+      <li><img src="https://skillicons.dev/icons?i=mysql" />MySQL</li>
     
 </details>
 <details>
   <summary><strong>Frameworks</strong></summary><blockquote>
-    <li>📗Express.js</li>
-    <li>📔Bootstrap</li> 
+    <li><img src="https://skillicons.dev/icons?i=express" />Express.js</li>
+    <li><img src="https://skillicons.dev/icons?i=bootstrap" />Bootstrap</li> 
 </details>
 <details>
   <summary><strong>Technologies</strong></summary><blockquote>
-    <li>🪢Node.js</li>
+    <li><img src="https://skillicons.dev/icons?i=nodejs" />Node.js</li>
 </details>
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
-    <li>💠React</li>
-    <li>📒 jQuery</li>
+    <li><img src="https://skillicons.dev/icons?i=react" />React</li>
+    <li><img src="https://skillicons.dev/icons?i=jquery" /> jQuery</li>
 </details>
 
 </br>
@@ -47,8 +51,8 @@
 ## 📚Currently learning
 <details>
   <summary><strong>Languages</strong></summary><blockquote>
-      <li>📘Typescript</li>
-      <li>🤠C</li>
+      <li><img src="https://skillicons.dev/icons?i=ts" />Typescript</li>
+      <li><img src="https://skillicons.dev/icons?i=c" />C</li>
 </details>
 <details>
   <summary><strong>Frameworks</strong></summary><blockquote>
@@ -56,11 +60,11 @@
 </details>
 <details>
   <summary><strong>Technologies</strong></summary><blockquote>
-    <li>🦺 Git</li>
+    <li><img src="https://skillicons.dev/icons?i=git" /> Git</li>
 </details>
 <details>
   <summary><strong>Libraries</strong></summary><blockquote>
-    <li>💠React (Still improving)</li>
+    <li><img src="https://skillicons.dev/icons?i=react" />React (Still improving)</li>
 </details>
     
 </br>
