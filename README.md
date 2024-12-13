@@ -1,94 +1,141 @@
-
+<!-- GIF de topo -->
+<!-- https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif-->
+<!-- https://i.pinimg.com/originals/cf/03/d8/cf03d8b554fe01f270c4f7a25261e8c0.gif-->
+<!-- https://i.pinimg.com/originals/b3/d8/d1/b3d8d1501e8bf377b1ddefaca01c1b75.gif-->
 <div align="center">
-<img src="https://i.pinimg.com/originals/79/6d/b5/796db5deaf3ca9a927736d4b12cc3086.gif" align="center" height="" width="900" />
+  <img src="https://i.pinimg.com/originals/cf/03/d8/cf03d8b554fe01f270c4f7a25261e8c0.gif" width="1100" height=""/>
 </div>
 
-</br>
+<br />
 
-<div align="center" >
-  <h1>
-    👋Welcome to my profile, my name is <strong>Gustavo Vília</strong>, also known as <strong><a href="https://github.com/SnikiPlayer">"Sniki"</a></strong>
-  </h1>
-</div>
-
-</br>
-
-- 🎉 20 Years Old
-- 🇵🇹  Portugal, Lisbon
-- 🎓 Currently taking a BSc Systems Management and Computing
-- 📸 Passionate about photography
-
-</br>
-
-## 🔥Skill set
-<details>
-  <summary><strong>Languages</strong></summary><blockquote>
-      <li><img src="https://skillicons.dev/icons?i=java" />Java</li>
-      <li><img src="https://skillicons.dev/icons?i=androidstudio" />🤖Android (Java)</li>
-      <li><img src="https://skillicons.dev/icons?i=js" />Javascript</li>
-      <li><img src="https://skillicons.dev/icons?i=py" />Python</li>
-      <li><img src="https://skillicons.dev/icons?i=php" />PHP</li>
-      <li><img src="https://skillicons.dev/icons?i=mysql" />MySQL</li>
-    
-</details>
-<details>
-  <summary><strong>Frameworks</strong></summary><blockquote>
-    <li><img src="https://skillicons.dev/icons?i=express" />Express.js</li>
-    <li><img src="https://skillicons.dev/icons?i=bootstrap" />Bootstrap</li> 
-</details>
-<details>
-  <summary><strong>Technologies</strong></summary><blockquote>
-    <li><img src="https://skillicons.dev/icons?i=nodejs" />Node.js</li>
-</details>
-<details>
-  <summary><strong>Libraries</strong></summary><blockquote>
-    <li><img src="https://skillicons.dev/icons?i=react" />React</li>
-    <li><img src="https://skillicons.dev/icons?i=jquery" /> jQuery</li>
-</details>
-
-</br>
-
-## 📚Currently learning
-<details>
-  <summary><strong>Languages</strong></summary><blockquote>
-      <li><img src="https://skillicons.dev/icons?i=ts" />Typescript</li>
-      <li><img src="https://skillicons.dev/icons?i=c" />C</li>
-</details>
-<details>
-  <summary><strong>Frameworks</strong></summary><blockquote>
-    <li>💀 None at the moment</li>
-</details>
-<details>
-  <summary><strong>Technologies</strong></summary><blockquote>
-    <li><img src="https://skillicons.dev/icons?i=git" /> Git</li>
-</details>
-<details>
-  <summary><strong>Libraries</strong></summary><blockquote>
-    <li><img src="https://skillicons.dev/icons?i=react" />React (Still improving)</li>
-</details>
-    
-</br>
-
+<!-- Introdução -->
 <div align="center">
-  <a href="https://github.com/SnikiPlayer">
+  <h1>👋 Hi, I'm <strong>Gustavo Vília</strong>!</h1>
+  <p>Also known as <strong><a href="https://github.com/SnikiPlayer">"Sniki"</a></strong></p>
 </div>
 
-## Links
-[![Github: Snikiplayer](https://img.shields.io/badge/-Sniki-lightgrey?style=flatsquare&logo=Github&logoColor=white)](https://github.com/SnikiPlayer)
-[![Linkedin: Gustavo V](https://img.shields.io/badge/-Gustavo-blue?style=flatsquare&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/)
-[![Twitter: @supsniki](https://img.shields.io/badge/-@supsniki-informational?style=flatsquare&logo=Twitter&logoColor=white)](https://twitter.com/supsniki)
-[![Instagram: @vilia.exe](https://img.shields.io/badge/-@vilia.exe-ff69b4?style=flatsquare&logo=Instagram&logoColor=white)](https://www.instagram.com/vilia.exe/)
-<div align="center">
-<img src="https://i.pinimg.com/originals/8f/38/8e/8f388ee83be2782215f9c931b5d3b67b.gif" align="center" height="" width="1100" />
-</div>
-</br>
+<br />
 
-## Github Stats
+<!-- Sobre -->
+<div>
+  <pre>
+  🎓 BSc Systems Management and Computing • Fullstack Development • Systems Management
+  💻 System programming languages
+  📖 Database Architecture • Software Engineering
+  🎮 Gaming • Code • Anime • Music • Photography
+  📍 Portugal, Lisbon</pre>
+</div>
+
+<br />
+
+<!-- Skill Set -->
+## 🔥 Skill Set
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=snikiplayer&&style=flat-square" align="center" />
+  <details>
+    <summary><strong>Languages</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=java" height="17" /> <strong>Java</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=androidstudio" height="17" /> <strong>Android (Java)</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=js" height="17" /> <strong>JavaScript</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=py" height="17" /> <strong>Python</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=php" height="17" /> <strong>PHP</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=mysql" height="17" /> <strong>MySQL</strong></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Frameworks</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=express" height="17" /> <strong>Express.js</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=bootstrap" height="17" /> <strong>Bootstrap</strong></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Technologies</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=nodejs" height="17" /> <strong>Node.js</strong></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Libraries</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=react" height="17" /> <strong>React</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=jquery" height="17" /> <strong>jQuery</strong></li>
+    </ul>
+  </details>
 </div>
 
-</br>
+<br />
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=snikiplayer&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- Atualmente aprendendo -->
+## 📚 Currently Learning
+<div align="left">
+  <details>
+    <summary><strong>Languages</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=ts" height="17" /> <strong>TypeScript</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=c" height="17" /> <strong>C</strong></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Frameworks</strong></summary>
+    <ul>
+      <li>💀 None at the moment</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Technologies</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=git" height="17" /> <strong>Git</strong></li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Libraries</strong></summary>
+    <ul>
+      <li><img src="https://skillicons.dev/icons?i=react" height="17" /> <strong>React (Still improving)</strong></li>
+      <li><img src="https://skillicons.dev/icons?i=discordjs" height="17" /> <strong>Discord.js</strong></li>
+    </ul>
+  </details>
+</div>
+
+<br />
+
+<!-- GIF de rodapé -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/59/87/5b/59875b7804079062af65ef6f353080f1.gif" width="1100" />
+</div>
+
+<br />
+
+<!-- Footer -->
+<div align="center">
+  <p>© 2024 <strong>Gustavo Vília</strong>. All rights reserved.</p>
+  <p>Built with 💻 by <strong><a href="https://github.com/SnikiPlayer" target="_blank">Sniki</a></strong></p>
+  <p>Follow me on <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank">LinkedIn</a> and <a href="https://www.instagram.com/vilia.exe/" target="_blank">Instagram</a>.</p>
+  
+  <!-- Social Media Icons (small) -->
+  <div style="margin-top: 20px; text-align: center;" style="text-decoration: none;">
+  <!-- GitHub Link -->
+  <a href="https://github.com/SnikiPlayer" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github" width="25" height="25" alt="GitHub" hspace="8" />
+  </a>
+  
+  <!-- LinkedIn Link -->
+  <a href="https://www.linkedin.com/in/gustavo-v%C3%ADlia-0246a123b/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="25" height="25" alt="LinkedIn" hspace="8" />
+  </a>
+  
+  <!-- Instagram Link -->
+  <a href="https://www.instagram.com/vilia.exe/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" width="25" height="25" alt="Instagram" hspace="8"/>
+  </a>
+</div>
+
+</div>
+
 
