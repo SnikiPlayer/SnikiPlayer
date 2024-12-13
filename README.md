@@ -105,6 +105,16 @@
 
 <br />
 
+<!-- LESSONS -->
+## 🧠 Lessons I'll take with me for the rest of my life
+<pre>
+  笑う門には福来る • "Happiness will come to the home of those who smile"
+  逆境は成長の種 • "Adversity is the seed of growth"
+  成功の秘訣はあきらめないこと • "The secret to success is not to give up."
+  一度きりの人生 • "You only live once."
+</pre>
+
+
 <!-- GIF de rodapé -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/59/87/5b/59875b7804079062af65ef6f353080f1.gif" width="1100" />
